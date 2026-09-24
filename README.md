@@ -2,7 +2,7 @@
 
 ### Java Backend Engineer | Spring Boot | Microservices | Kubernetes | Cloud
 
-I’m a **Java Backend Engineer with 7+ years of experience** building production-grade backend systems and microservices using **Java, Spring Boot, REST APIs, PostgreSQL, Kafka, Kubernetes, and cloud technologies**.
+I’m a **Java Backend Engineer with 8+ years of experience** building production-grade backend systems and microservices using **Java, Spring Boot, REST APIs, PostgreSQL, Kafka, Kubernetes, and cloud technologies**.
 
 I enjoy designing and building backend services that are **scalable, reliable, observable, and maintainable** — from API and database design through CI/CD, Kubernetes deployment, monitoring, and production support.
 
