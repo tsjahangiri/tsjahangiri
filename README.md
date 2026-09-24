@@ -63,7 +63,7 @@ I like thinking beyond simply making an API work:
 
 ## 💻 Selected Projects
 
-### 🔹 Device Service ([https://www.linkedin.com/in/talha-jahangiri-521636114/](https://github.com/tsjahangiri/))
+### 🔹 Device Service ([https://github.com/tsjahangiri/device-service]) 
 
 Production-style REST API for managing device resources.
 
@@ -74,7 +74,7 @@ Focus areas include REST API design, persistence, validation, exception handling
 
 ---
 
-### 🔹 eLearning (https://www.linkedin.com/in/talha-jahangiri-521636114/)
+### 🔹 eLearning ([https://github.com/tsjahangiri/eLearning])
 
 REST API for managing and retrieving eLearning component data for authenticated users.
 
